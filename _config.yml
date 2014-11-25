@@ -46,7 +46,6 @@ c4sponsorsUrl:
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -177,20 +176,22 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://plus.google.com/+GdgkimathiuniversityBlogspot/", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGKimathiUni", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/gdgkimathiuniversity", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://gdgkimathiuniversity.blogspot.com/", text: "GDG Kimathi"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgkimathiuniversity@gmail.com
+", text: "gdgkimathiuniversity@gmail.com
+"}
  -
   title: "FAQ"
   links:
