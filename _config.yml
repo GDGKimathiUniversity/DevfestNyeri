@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Nyeri 2014"
 email: "gdg-kimathi-university@googlegroups.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: ""
+baseurl: "/DevfestNyeri"
 url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-56321342-1"
