@@ -77,7 +77,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "6", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
  - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
@@ -98,14 +98,14 @@ eventLocationLink: "http://dkut.ac.ke/"
 eventStreetAddress: "Auditorium"
 eventAddressLocality: "Dedan Kimathi University of Technology"
 eventAddressLocalityRegion: "Nyeri"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+eventPostalCode: "099"
+eventAddressCountry: "Kenya"
+eventStartTime: "2014-11-29T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2014-11-29T7:00"
+eventPlaceCoordinates: "-0.3954526, 36.9620919"
+mapCenterCoordinates: "-0.3954526, 36.9620919"
+mapMobileCenterCoordinates: "-0.3954526, 36.9620919"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -119,7 +119,11 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
+<<<<<<< HEAD
 twitterHashTag: "devfestnyeri14"
+=======
+twitterHashTag: "#devfest"
+>>>>>>> origin/arl
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
