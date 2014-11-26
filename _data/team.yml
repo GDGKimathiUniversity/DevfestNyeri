@@ -2,7 +2,7 @@
   id: 0
   name: "Kenneth"
   surname: "Kinyanjui"
-  title: "GDG Kimathi lead and speaker"
+  title: "GDG Country Mentor Kenya"
   thumbnailUrl: ken.jpg
   team: true
   ribbon: 
@@ -11,7 +11,7 @@
   id: 1
   name: "Aurlus"
   surname: "I. Wedava"
-  title: "GDG Kimathi co-lead and speaker"
+  title: "GDG Kimathi University Co-Lead"
   thumbnailUrl: arlus.jpg
   team: true
   ribbon: 
@@ -31,16 +31,16 @@
   id: 9
   name: "Mabel"
   surname: "Kibor"
-  title: "Organizing committee"
+  title: "GDGW Kimathi University "
   thumbnailUrl: mabel.jpg
-  subTeam: true
+  team: true
 
 
 -
   id: 11
   name: "Beaty"
   surname: "Kiplagat"
-  title: "Organizing committee"
+  title: "Organizing Team"
   thumbnailUrl: smiley.jpg
   subTeam: true
 
@@ -49,7 +49,7 @@
   id: 12
   name: "Francis"
   surname: "Gikeri"
-  title: "Organizing committee"
+  title: "Organizing Team"
   thumbnailUrl: francis.png
   subTeam: true
 
@@ -58,7 +58,7 @@
   id: 13
   name: "Berry"
   surname: "Mboya"
-  title: "Organizing committee"
+  title: "Organizing Team"
   thumbnailUrl: berry.jpg
   subTeam: true
 
@@ -76,7 +76,7 @@
   id: 15
   name: "Koin"
   surname: "Barclay"
-  title: "Organizing committee"
+  title: "Organizing Team"
   thumbnailUrl: koin.jpg
   subTeam: true
 
@@ -85,7 +85,7 @@
   id: 16
   name: "Joseph"
   surname: "Ndungu"
-  title: "Speaker"
+  title: "Organizing Team"
   thumbnailUrl: jose.jpg
   subTeam: true
 
@@ -93,7 +93,7 @@
   id: 17
   name: "Peninah"
   surname: "Wanjiru"
-  title: "Organizing committee"
+  title: "Organizing Team"
   thumbnailUrl: pesh.jpg
   subTeam: true
 
@@ -102,7 +102,7 @@
   id: 18
   name: "Areba"
   surname: "Biggie"
-  title: "Organizing committee"
+  title: "Organizing Team"
   thumbnailUrl: areba.jpg
   subTeam: true
 
