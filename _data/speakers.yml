@@ -1,67 +1,85 @@
 - 
   id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  name: "Thomas"
+  surname: "Kioko"
+  company: " e-Limu "
+  title: "Software Engineer"
+  bio: "Thomas is an Bs IT Undergraduate from KEMU. He is a Developer/Innovator/Mentor. He mainly focuses on Mobile Programming (Android), but a bit of Hardware and Web development are skill under his belt. When not codin he is building Robots.."
   thumbnailUrl: DawidOstrowski.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+    - {name: "google-plus", link: "https://plus.google.com/+ThomasKioko"}
+    - {name: "twitter", link: "https://twitter.com/code_wizard"}
+    - {name: "github", link: "https://github.com/kioko"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  name: "Mercy"
+  surname: "Orangi"
+  company: "Old Mutual Kenya"
+  title: "Business System Analyst"
+  bio: 'Mercy is a Ms Mobile Technology and Innovation from Strathmore University. She is currently the Lead Organizer of GDG Nairobi. She is also a Mobile Programmer and a Software Developer.'
   thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+MercyOrangi"}
+    - {name: "twitter", link: "https://twitter.com/mercy_orangi"}
+    - {name: "github", link: "https://github.com/mercyorangi"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  name: "Margaret"
+  surname: "Odhiambo"
+  company: " GDG KU"
+  title: "Lead Organizer"
+  bio: "Margaret is a 4th year Undergraduate at the Kenyatta University. She was one of the first African Lady to participate in IBM's Master the Mainframe world competition in New York. Recenltly got into Mahindra Corp where she is an Intergration Enginneer"
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
   ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+        - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106073919098873407797/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/+margaretadhiambo"}
+    - {name: "twitter", link: "https://twitter.com/adhiambo_ondeng"}
 - 
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  name: "Joseph "
+  surname: "Ndungu"
+  company: "Union Prep Test"
+  title: "Web Developer - Ruby on Rails"
+  bio: "Joseph is an 4th Undergraduate at Dedan Kimathi University finishing his Bsc Computer Science. He is a passionate web developer and a Rubyist. Nowadays you will find him tinkering a bit on mobile and doing some Android. He was in the team that won the Grand prize at the Nyeri Civic Hack Day. He writes as much as he commits his code. Make sure you follow this guy if you are looking to grow a career in Web developement "
   thumbnailUrl: RomanMazur.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JosephNdungu-dev"}
+    - {name: "twitter", link: "http://twitter.com/_jowse"}
+    - {name: "github", link: "http://github.com/joseph-n"}
+    - {name: "site", link: "http://josephndungu.com"}
+
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
+  name: "Arlus"
+  surname: "Wedava"
+  company: "SmarterAgent LLC, GDG Kimathi Unviersity"
   title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  bio: "Arlus is an advanced Python Programmer and currently working as a Lead Software Engineer at SmarterAgent LLC. He is also the Co-Lead of GDG Kimathi University . His stack revolves around Web Development , Software Engineering , System Architecture and a lot of automation. He has experience in Google Cloud Platform.  He enjoys listening to music when he is not pushing another commit. "
   thumbnailUrl: ValentynShybanov.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://gdgkimathiuniversity.blogspot.com"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/110881647959603935352"}
+    - {name: "github", link: "http://github.com/arlus"}
+
+
+
+  id: 8
+  name: "Victor"
+  surname: "Areba"
+  company: "Wall Cloud  LLC"
+  title: "Web developer"
+  bio: "Arlus is an advanced Python Programmer and currently working as a Lead Software Engineer at SmarterAgent LLC. He is also the Co-Lead of GDG Kimathi University . His stack revolves around Web Development , Software Engineering , System Architecture and a lot of automation. He has experience in Google Cloud Platform.  He enjoys listening to music when he is not pushing another commit. "
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://gdgkimathiuniversity.blogspot.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/110881647959603935352"}
+    - {name: "github", link: "http://github.com/arlus"}
