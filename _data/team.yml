@@ -1,60 +1,109 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Kenneth"
+  surname: "Kinyanjui"
+  title: "GDG Kimathi lead and speaker"
+  thumbnailUrl: ken.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Aurlus"
+  surname: "I. Wedava"
+  title: "GDG Kimathi co-lead and speaker"
+  thumbnailUrl: arlus.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
-  id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+
+
+-
+  id: 8
+  name: "Pauline"
+  surname: "Wairimu"
+  title: "Organizing committee"
+  thumbnailUrl: pauline.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
+
+
+-
+  id: 9
+  name: "Mabel"
+  surname: "Kibor"
+  title: "Organizing committee"
+  thumbnailUrl: mabel.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+
+
+-
+  id: 11
+  name: "Beaty"
+  surname: "Kiplagat"
+  title: "Organizing committee"
+  thumbnailUrl: smiley.jpg
+  subTeam: true
+
+
+-
+  id: 12
+  name: "Francis"
+  surname: "Gikeri"
+  title: "Organizing committee"
+  thumbnailUrl: francis.png
+  subTeam: true
+
+
+-
+  id: 13
+  name: "Berry"
+  surname: "Mboya"
+  title: "Organizing committee"
+  thumbnailUrl: berry.jpg
+  subTeam: true
+
+
+-
+  id: 14
+  name: "Marvin"
+  surname: "Ngesa"
+  title: "Organizing committee"
+  thumbnailUrl: marvin.jpg
+  subTeam: true
+
+
+-
+  id: 15
+  name: "Koin"
+  surname: "Barclay"
+  title: "Organizing committee"
+  thumbnailUrl: koin.jpg
+  subTeam: true
+
+
+-
+  id: 16
+  name: "Joseph"
+  surname: "Ndungu"
+  title: "Speaker"
+  thumbnailUrl: jose.jpg
+  subTeam: true
+
+-
+  id: 17
+  name: "Peninah"
+  surname: "Wanjiru"
+  title: "Organizing committee"
+  thumbnailUrl: pesh.jpg
+  subTeam: true
+
+
+-
+  id: 18
+  name: "Areba"
+  surname: "Biggie"
+  title: "Organizing committee"
+  thumbnailUrl: areba.jpg
+  subTeam: true
+
+
