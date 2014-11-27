@@ -34,7 +34,7 @@
   thumbnailUrl: maggy.jpg
   rockstar: true
   ribbon: 
-        - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106073919098873407797/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106073919098873407797/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+margaretadhiambo"}
     - {name: "twitter", link: "https://twitter.com/adhiambo_ondeng"}
@@ -69,7 +69,7 @@
     - {name: "github", link: "http://github.com/arlus"}
 
 
-
+-
   id: 8
   name: "Victor"
   surname: "Areba"
@@ -85,7 +85,7 @@
     - {name: "github", link: "http://github.com/arlus"}
 
 -
-id: 9
+  id: 9
   name: "Kenneth "
   surname: "Kinyanjui"
   company: "Infinity Space, GDG Kenya"
