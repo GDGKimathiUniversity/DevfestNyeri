@@ -5,7 +5,7 @@
   company: " e-Limu "
   title: "Software Engineer"
   bio: "Thomas is an Bs IT Undergraduate from KEMU. He is a Developer/Innovator/Mentor. He mainly focuses on Mobile Programming (Android), but a bit of Hardware and Web development are skill under his belt. When not codin he is building Robots.."
-  thumbnailUrl: DawidOstrowski.jpg
+  thumbnailUrl: tom.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ThomasKioko"}
@@ -18,7 +18,7 @@
   company: "Old Mutual Kenya"
   title: "Business System Analyst"
   bio: 'Mercy is a Ms Mobile Technology and Innovation from Strathmore University. She is currently the Lead Organizer of GDG Nairobi. She is also a Mobile Programmer and a Software Developer.'
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: mercy.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+MercyOrangi"}
@@ -31,7 +31,7 @@
   company: " GDG KU"
   title: "Lead Organizer"
   bio: "Margaret is a 4th year Undergraduate at the Kenyatta University. She was one of the first African Lady to participate in IBM's Master the Mainframe world competition in New York. Recenltly got into Mahindra Corp where she is an Intergration Enginneer"
-  thumbnailUrl: MateuszHerych.jpg
+  thumbnailUrl: maggy.jpg
   rockstar: true
   ribbon: 
         - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/106073919098873407797/"}
@@ -45,7 +45,7 @@
   company: "Union Prep Test"
   title: "Web Developer - Ruby on Rails"
   bio: "Joseph is an 4th Undergraduate at Dedan Kimathi University finishing his Bsc Computer Science. He is a passionate web developer and a Rubyist. Nowadays you will find him tinkering a bit on mobile and doing some Android. He was in the team that won the Grand prize at the Nyeri Civic Hack Day. He writes as much as he commits his code. Make sure you follow this guy if you are looking to grow a career in Web developement "
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: jose.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JosephNdungu-dev"}
@@ -60,7 +60,7 @@
   company: "SmarterAgent LLC, GDG Kimathi Unviersity"
   title: "Software engineer/country manager"
   bio: "Arlus is an advanced Python Programmer and currently working as a Lead Software Engineer at SmarterAgent LLC. He is also the Co-Lead of GDG Kimathi University . His stack revolves around Web Development , Software Engineering , System Architecture and a lot of automation. He has experience in Google Cloud Platform.  He enjoys listening to music when he is not pushing another commit. "
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: arlus.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://gdgkimathiuniversity.blogspot.com"}
@@ -76,10 +76,25 @@
   company: "Wall Cloud  LLC"
   title: "Web developer"
   bio: "Arlus is an advanced Python Programmer and currently working as a Lead Software Engineer at SmarterAgent LLC. He is also the Co-Lead of GDG Kimathi University . His stack revolves around Web Development , Software Engineering , System Architecture and a lot of automation. He has experience in Google Cloud Platform.  He enjoys listening to music when he is not pushing another commit. "
-  thumbnailUrl: ValentynShybanov.jpg
+  thumbnailUrl: areba.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://gdgkimathiuniversity.blogspot.com"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/110881647959603935352"}
     - {name: "github", link: "http://github.com/arlus"}
+
+-
+id: 9
+  name: "Kenneth "
+  surname: "Kinyanjui"
+  company: "Infinity Space, GDG Kenya"
+  title: "Software Engineer , Python"
+  bio: "Kenneth is a Pythonista and Djangonaut. He is currently serving a the GDG County Mentor as well as the Lead for GDG Kimathi University. When not programming he enjoys reading books, writing on his blog and journals. "
+  thumbnailUrl: ken.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+KennethKinyanjui"}
+    - {name: "twitter", link: "http://twitter.com/kenju254"}
+    - {name: "github", link: "http://github.com/kenju254"}
+    - {name: "site", link: "http://kennethkinyanjui.info"}
