@@ -75,14 +75,12 @@
   surname: "Areba"
   company: "Wall Cloud  LLC"
   title: "Web developer"
-  bio: "Arlus is an advanced Python Programmer and currently working as a Lead Software Engineer at SmarterAgent LLC. He is also the Co-Lead of GDG Kimathi University . His stack revolves around Web Development , Software Engineering , System Architecture and a lot of automation. He has experience in Google Cloud Platform.  He enjoys listening to music when he is not pushing another commit. "
+  bio: "Areba is an outstanding web developer. He is a Rubyist and you will find him building innovative solutions to our everyday problems. Did I mention he writes, find his thought on Inkulumo one of the creations from his stables.  "
   thumbnailUrl: areba.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://gdgkimathiuniversity.blogspot.com"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/110881647959603935352"}
-    - {name: "github", link: "http://github.com/arlus"}
+    - {name: "google-plus", link: "https://plus.google.com/116650942799756855718"}
+    - {name: "github", link: "http://github.com/theareba"}
 
 -
   id: 9

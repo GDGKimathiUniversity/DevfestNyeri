@@ -13,29 +13,29 @@
   title: "Keynote & Welcome Address"
   description: "This session will include an introduction to the Google Communities what they are. A look into the last 1 year of GDG. A slight sneak pic of what you might have missed at Google I/O 2014. Explained in Detail"
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [9, 7]
   language: en
   complexity: "Beginner"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Zero to Hero with Android Wear"
+  description: "This is a session that will introduce you and give you a general feel of what Android wear is all all about and how to jump in.. There will be some wearables availabe for you to interact with and have a feel"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [3]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Zero to Hero with Google Cloud Platfrom"
+  description: "Design -> Devlop -> Distribute with Google Cloud Platform. We will show you how easy it is to jump into the Google Cloud Stack and build your MVP, test it with users and scale on demand."
   subtype: presentation
-  speakers: [4]
+  speakers: [9]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Beginner" 
+  #presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
   title: "Polymer: Interacting with Google Services using nothing but HTML"
@@ -44,15 +44,47 @@
   speakers: [6]
   language: uk
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Women in Tech Panel Discussions"
+  description: "As part of our main goals in 2014 , GDG Kimathi University would like to promote diversity. We willhave a panel of ladies of course moderated but this session will focus much more on how Women also can join in Technology and who not better to explain but successful ladies how have excelled in Tech"
   subtype: keynote
-  speakers: [7]
+  speakers: [4, 5]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  #presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
+  #video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+ id: 006
+ title: "Hey this is our journey"
+ description: "This is a special un confrence that will highlight the path of some of our community members who have become Intermediate Software Enginners and would like to share how they did it . It will be comprised of community members who have something they have built and would like to talk about their journey"
+ subtype: confrence
+ speakers: [6,7,8]
+ language: en
+ complexity: "Beginner"
+
+-
+
+ id: 007
+ title: "Startup Hour X"
+ description: "This is an hour where we will highlight Startup Methodologies such as  Lean Canvas, MVP , Lean Startup "
+ subtype: confrence
+ speakers: [9]
+ language: en
+ complexity: "Beginner"
+
+
+-
+ id: 308
+ title: "Closing Remarks"
+ place: "Auditorium"
+ service: true
+
+-
+ id: 309
+ title: "Arrival & Registaration"
+ place: "Auditorium"
+ service: true
