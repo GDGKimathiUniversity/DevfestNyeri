@@ -1,3 +1,7 @@
+
+[![Build Status](https://travis-ci.org/GDGKimathiUniversity/DevfestNyeri.svg?branch=master)](https://travis-ci.org/GDGKimathiUniversity/DevfestNyeri)
+
+
 # Project Zeppelin / GDG DevFest 2014 site template
 
 ### About 
