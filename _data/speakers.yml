@@ -96,3 +96,19 @@
     - {name: "twitter", link: "http://twitter.com/kenju254"}
     - {name: "github", link: "http://github.com/kenju254"}
     - {name: "site", link: "http://kennethkinyanjui.info"}
+
+
+- 
+  id: 10
+  name: "Cedric "
+  surname: "Atangana"
+  company: "Infinity Space"
+  title: "CEO and Founder of Infinity Space"
+  bio: "Cedric is the Founder and CEO of Infinity Space. He is currenty finishing on his Ms. Engineering in Humanoid Robitics and Arificial Intelligence at Polytch Marseille. He is also about to begin his Ms Entreprenurship at Stanford University. He was formerly , the GDG Country mentor for Cameroon and Organizer of the AFrica Android Challenge. He has won a lot of Awards in France, South Africa, USA and other countries. He is the guy behind Weshopup.com "
+  thumbnailUrl: ken.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+cedricAtangana"}
+    - {name: "twitter", link: "http://twitter.com/cedricatangana"}
+    - {name: "github", link: "http://github.com/cedricatangana"}
+    - {name: "site", link: "http://infinityspace.fr"}
