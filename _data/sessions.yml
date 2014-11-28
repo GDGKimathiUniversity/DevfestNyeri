@@ -62,7 +62,7 @@
  title: "Hey this is our journey"
  description: "This is a special un confrence that will highlight the path of some of our community members who have become Intermediate Software Enginners and would like to share how they did it . It will be comprised of community members who have something they have built and would like to talk about their journey"
  subtype: confrence
- speakers: [6,7,8]
+ speakers: [6,7,8,9,10]
  language: en
  complexity: "Beginner"
 
